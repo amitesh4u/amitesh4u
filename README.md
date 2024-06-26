@@ -1,6 +1,6 @@
 ## Hello World!. I am Amitesh👋
-[![Linkedin Badge](https://img.shields.io/badge/-amitesh4u-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitesh4u/)](https://www.linkedin.com/in/amitesh4u/)
-[![Github Badge](https://img.shields.io/badge/-amitesh4u-g?style=flat&logo=github&logoColor=white&link=https://github.com/amitesh4u)](https://github.com/amitesh4u)
+[![Linkedin Badge](https://img.shields.io/badge/-amitesh4u-red?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitesh4u/)](https://www.linkedin.com/in/amitesh4u/)
+[![Github Badge](https://img.shields.io/badge/-amitesh4u-29903b?style=flat&logo=github&logoColor=link=https://github.com/amitesh4u)](https://github.com/amitesh4u)
 
 _Experince is Not proportional to Time but Effort!!_
 
@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 - I'm currently learning AI, React, Python, Go, DevOps and Project Management.
 <br/>
 
-### _When I am not infront of a Laptop, I love writing poems & prose, exploring world, cooking and reading_
-[![Poetries](https://img.shields.io/badge/-Poetries-g?style=flat&logo=paperlessngx&logoColor=white&link=https://mypoetry4u.blogspot.com)](https://mypoetry4u.blogspot.com) 
-[![Prose](https://img.shields.io/badge/-Prose-orange?style=flat&logo=paperlessngx&logoColor=white&link=https://amitesh4u.blogspot.com)](https://amitesh4u.blogspot.com) 
+### _When not infront of a Laptop, I love writing poems & prose, exploring world, cooking and reading..._
+[![Poetries](https://img.shields.io/badge/-Poetries-red?style=flat&logo=paperlessngx&logoColor=white&link=https://mypoetry4u.blogspot.com)](https://mypoetry4u.blogspot.com) 
+[![Prose](https://img.shields.io/badge/-Prose-29903B?style=flat&logo=paperlessngx&logoColor=white&link=https://amitesh4u.blogspot.com)](https://amitesh4u.blogspot.com) 
 
 
 <hr/>
