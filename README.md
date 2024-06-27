@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 
 ![Veracode](https://img.shields.io/badge/-Veracode-black?style=flat) |
 ![SonarQube](https://img.shields.io/badge/-SonarQube-blue?style=flat&logo=SonarQube&logoColor=white) |
+![Swagger](https://img.shields.io/badge/-Swagger-blue?style=flat&logo=swagger&logoColor=white) |
+![Splunk](https://img.shields.io/badge/-Splunk-black?style=flat&logo=splunk&logoColor=white) |
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat) |
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-blue?style=flat&logo=ArtificialIntelligence)
 
