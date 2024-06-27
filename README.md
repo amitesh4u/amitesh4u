@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- Pursued Bachelor's degree in Information & Communication Technology from DA-IICT, Gujarat (2007) 🏛.
+- Pursued Bachelor's degree in Information & Communication Technology from DA-IICT, Gujarat (2007).
 - Collaborated on high-quality full-stack projects of different domains i.e. FMCG, Mother & Childcare and Hotel management.
 - Worked at different locations from Silicon Valley, USA to India on varied technologies.
 - Showcased Technical, Business and Leadership abilities by supervising Pilots from 2nd year to leading 3 projects by 4th year. 
