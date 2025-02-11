@@ -3,7 +3,7 @@
 
 ### Connect @ ###
 [![Github Badge](https://img.shields.io/badge/-amitesh4u-29903b?style=flat&logo=github&logoColor=link=https://github.com/amitesh4u)](https://github.com/amitesh4u)
-/ [![Linkedin Badge](https://img.shields.io/badge/-amitesh4u-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitesh4u/)](https://www.linkedin.com/in/amitesh4u/)
+/ [![Linkedin Badge](https://img.shields.io/badge/in-amitesh4u-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitesh4u/)](https://www.linkedin.com/in/amitesh4u/)
 
 <hr/>
 
