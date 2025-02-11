@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-amitesh4u-red?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitesh4u/)](https://www.linkedin.com/in/amitesh4u/)
 [![Github Badge](https://img.shields.io/badge/-amitesh4u-29903b?style=flat&logo=github&logoColor=link=https://github.com/amitesh4u)](https://github.com/amitesh4u)
 
-_Experince is Not proportional to Time but Effort!!_
+_Experience is Not proportional to Time but Effort!!_
 
 <!--
 **amitesh4u/amitesh4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
