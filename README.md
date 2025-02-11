@@ -1,8 +1,20 @@
 ## Hello World!. Amitesh here👋
-[![Linkedin Badge](https://img.shields.io/badge/-amitesh4u-red?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitesh4u/)](https://www.linkedin.com/in/amitesh4u/)
+
+
+### Connect @ ###
 [![Github Badge](https://img.shields.io/badge/-amitesh4u-29903b?style=flat&logo=github&logoColor=link=https://github.com/amitesh4u)](https://github.com/amitesh4u)
+/      <svg width="20" height="20">
+<g>
+<path d="M19.5 0h-18A1.5 1.5 0 000 1.5v18A1.5 1.5 0 001.5 21h18a1.5 1.5 0 001.5-1.5v-18A1.5 1.5 0 0019.5 0zM6 18H3V8h3zM4.5 6.25A1.75 1.75 0 116.25 4.5 1.75 1.75 0 014.5 6.25zM18 18h-3v-5.09c0-1.62-.74-2.44-1.84-2.44A2.32 2.32 0 0011 12.91V18H8V8h3v1.39a4 4 0 013.3-1.63c1.77 0 3.66.93 3.66 4z" fill="#0a66c2"></path>
+</g>
+</svg>
+[![Linkedin Badge](https://img.shields.io/badge/-amitesh4u-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitesh4u/)](https://www.linkedin.com/in/amitesh4u/)
+
+
+<hr/>
 
 _Experience is Not proportional to Time but Effort!!_
+<hr/>
 
 <!--
 **amitesh4u/amitesh4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -87,7 +99,7 @@ Here are some ideas to get you started:
 
 ### Github Stats
 <a href="https://github.com/amitesh4u">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh4u&size_weight=0.5&count_weight=0.5&theme=radical&hide=PHP,CSS" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh4u&size_weight=0.5&count_weight=0.5&theme=radical&hide=PHP,CSS"  alt="Github statistics"/>
 </a>
 <!--
 - #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
