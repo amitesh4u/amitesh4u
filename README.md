@@ -3,10 +3,9 @@
 
 ### Connect @ ###
 [![Github Badge](https://img.shields.io/badge/-amitesh4u-29903b?style=flat&logo=github&logoColor=link=https://github.com/amitesh4u)](https://github.com/amitesh4u)
-/      <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPjxnPjxwYXRoIGQ9Ik0xOS41IDBoLTE4QTEuNSAxLjUgMCAwMDAgMS41djE4QTEuNSAxLjUgMCAwMDEuNSAyMWgxOGExLjUgMS41IDAgMDAxLjUtMS41di0xOEExLjUgMS41IDAgMDAxOS41IDB6TTYgMThIM1Y4aDN6TTQuNSA2LjI1QTEuNzUgMS43NSAwIDExNi4yNSA0LjUgMS43NSAxLjc1IDAgMDE0LjUgNi4yNXpNMTggMThoLTN2LTUuMDljMC0xLjYyLS43NC0yLjQ0LTEuODQtMi40NEEyLjMyIDIuMzIgMCAwMDExIDEyLjkxVjE4SDhWOGgzdjEuMzlhNCA0IDAgMDEzLjMtMS42M2MxLjc3IDAgMy42Ni45MyAzLjY2IDR6IiBmaWxsPSIjMGE2NmMyIj48L3BhdGg+PC9nPjwvc3ZnPg==">
+/ linkedin:      
 [![Linkedin Badge](https://img.shields.io/badge/-amitesh4u-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitesh4u/)](https://www.linkedin.com/in/amitesh4u/)
 
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPjxnPjxwYXRoIGQ9Ik0xOS41IDBoLTE4QTEuNSAxLjUgMCAwMDAgMS41djE4QTEuNSAxLjUgMCAwMDEuNSAyMWgxOGExLjUgMS41IDAgMDAxLjUtMS41di0xOEExLjUgMS41IDAgMDAxOS41IDB6TTYgMThIM1Y4aDN6TTQuNSA2LjI1QTEuNzUgMS43NSAwIDExNi4yNSA0LjUgMS43NSAxLjc1IDAgMDE0LjUgNi4yNXpNMTggMThoLTN2LTUuMDljMC0xLjYyLS43NC0yLjQ0LTEuODQtMi40NEEyLjMyIDIuMzIgMCAwMDExIDEyLjkxVjE4SDhWOGgzdjEuMzlhNCA0IDAgMDEzLjMtMS42M2MxLjc3IDAgMy42Ni45MyAzLjY2IDR6IiBmaWxsPSIjMGE2NmMyIj48L3BhdGg+PC9nPjwvc3ZnPg==)
 <hr/>
 
 _Experience is Not proportional to Time but Effort!!_
